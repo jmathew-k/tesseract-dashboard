@@ -28,7 +28,7 @@ const Header = ({ onOpen }) => {
       <div className={styles.control} onClick={() => setVisible(false)}>
         <Link className={cn("button", styles.button)} to="/products/add">
           <Icon name="add" size="24" />
-          <span>Create</span>
+          <span>Create Asset</span>
         </Link>
         <Messages className={styles.messages} />
         <Notification className={styles.notification} />

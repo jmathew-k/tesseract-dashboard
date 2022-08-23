@@ -7,32 +7,32 @@ import ModalProduct from "../ModalProduct";
 
 const products = [
   {
-    title: "Crypter - NFT UI kit",
-    price: "$2,453.80",
+    title: " v2 Zoom Boots",
+    price: "Ξ 24.76",
     active: true,
     image: "/images/content/shoe.png",
     image2x: "/images/content/shoe.png",
   },
   {
-    title: "Bento Matte 3D illustration 1.0",
-    price: "$105.60",
+    title: "Otherside XYZ Serum",
+    price: "Ξ 197.3",
     active: false,
     image: "/images/content/otherside.png",
     image2x: "/images/content/otherside.png",
   },
   {
-    title: "Fleet - travel shopping kit",
-    price: "$648.60",
+    title: " Greenpath Vortex",
+    price: "Ξ 984.124",
     active: true,
     image: "/images/content/artifact.png",
     image2x: "/images/content/artifact.png",
   },
   {
-    title: "Fleet - travel shopping kit",
-    price: "$648.60",
+    title: "Space Station Sandbox",
+    price: "Ξ 65.54",
     active: true,
-    image: "/images/content/sandcar.png",
-    image2x: "/images/content/sandcar.png",
+    image: "/images/content/space-station.png",
+    image2x: "/images/content/space-station.png",
   },
   {
     title: "Crypter - NFT UI kit",
